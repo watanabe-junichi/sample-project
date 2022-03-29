@@ -99,6 +99,7 @@ dist
 
 # DynamoDB Local files
 .dynamodb/
+.dynamodb-local/
 
 # TernJS port file
 .tern-port
